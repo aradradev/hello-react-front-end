@@ -11,6 +11,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+    - [`[NOTE]` Check the API in the BACK-END section check it 🙏 :](#note-check-the-api-in-the-back-end-section-check-it--)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -48,6 +49,7 @@ Key features of the application.
 
 <!-- LIVE DEMO -->
 
+### `[NOTE]` Check the API in the [BACK-END section](https://github.com/aradradev/hello-rails-back-end/pull/4) check it 🙏 :
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
